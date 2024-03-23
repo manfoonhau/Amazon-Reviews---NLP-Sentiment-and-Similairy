@@ -33,6 +33,6 @@ Also compares the similarity between two reviews.
    2. Extract the "amazon_product_reviews.rar" file into the same directory.
    3. Run Python file (sentiement_analysis.py)
    4. Compare the sentiment analysis on any Amazon reviews by changing the selected index on line 50
-
+![Screenshot](https://github.com/manfoonhau/Amazon-Reviews---NLP-Sentiment-and-Similairy/blob/main/sentiment.png)
 
 
