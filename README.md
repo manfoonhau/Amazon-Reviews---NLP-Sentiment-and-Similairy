@@ -18,3 +18,13 @@ Also compares the similarity between two reviews.
 - Similarity Comparison: Additionally, the program compares the similarity between two randomly selected reviews from the dataset.
 
 ## Installation:
+1. Make sure you have Python and Pip installed onto your system.
+2. Clone the repository into a folder in your local machine
+3. Install the "amazon_product_reviews.rar" file and extract into the same directory.
+4. Install the following Python packages:
+   - Pandas - pip install pandas
+   - Spacy - pip install spacy
+   - Spacytextblob - pip install spacytextblob
+5. Install NLP models:
+   - English Small NLP model - python -m spacy download en_core_web_sm
+   - English Medium NLP model - python -m spacy download en_core_web_md
