@@ -16,3 +16,5 @@ Also compares the similarity between two reviews.
 - Preprocessing: The program includes preprocessing steps such as tokenization, lowercasing, stop word removal, and punctuation removal to prepare the text data for sentiment analysis.
 - Sentiment Analysis: It applies sentiment analysis techniques to determine the overall sentiment polarity of each review, classifying it as positive, negative, or neutral based on the sentiment score.
 - Similarity Comparison: Additionally, the program compares the similarity between two randomly selected reviews from the dataset.
+
+## Installation:
