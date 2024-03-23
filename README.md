@@ -38,7 +38,7 @@ Also compares the similarity between two reviews.
    5. Run the Python script.
 
 ## Credits:
-[Calvin Hau](https://github.com/manfoonhau) 
+Developer - [Calvin Hau](https://github.com/manfoonhau) 
 
 
 
